@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable/radiobutton_background.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable/radiobutton_background_grade1.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable/radiobutton_background_grade2.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable/radiobutton_background_grade3.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/drawable/radiobutton_textcolor.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_draw_card.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_draw_ten_card.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_launcher.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_life_experience.xml" value="0.128" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_life_summary.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_main2.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/activity_modify_attribute.xml" value="0.176" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/event.xml" value="0.10625" />
+        <entry key="..\:/Users/86199/AndroidStudioProjects/lifeRestart/app/src/main/res/layout/event_to_age.xml" value="0.10638297872340426" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
